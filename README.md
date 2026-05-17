@@ -223,7 +223,7 @@ type=ndot z=5.5 z_re=7.0 Delta_z=1.5 gamma=5e-13
 
 If you use this package, please cite:
 ```
-Tohfa et al. 2025
+Tohfa et al. 2026
 ```
 
 
