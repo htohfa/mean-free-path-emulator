@@ -12,7 +12,6 @@ from .ndot import NdotCalculator
 from .grid_search import GridSearch, TanhGridSearch
 from .cosmology import setup_cosmology, get_deltaNL_interpolator
 from .data import (
-    load_chardin_data,
     get_observational_mfp_data,
     get_gamma_datasets,
 )
