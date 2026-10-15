@@ -15,8 +15,8 @@ A neural network emulator for predicting the mean free path (MFP) of ionizing ph
 
 ```bash
 # From source
-git clone https://github.com/htohfa/mfp_emulator.git
-cd mfp_emulator
+git clone https://github.com/htohfa/mean-free-path-emulator.git
+cd mean-free-path-emulator
 pip install -e .
 ```
 
